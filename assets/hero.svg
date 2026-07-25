@@ -1,0 +1,38 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- receipt icon -->
+  <g transform="translate(70,60)">
+    <path d="M0 0 H140 V170 L128 158 L116 170 L104 158 L92 170 L80 158 L68 170 L56 158 L44 170 L32 158 L20 170 L8 158 L0 170 Z"
+          fill="#f8fafc" opacity="0.95"/>
+    <line x1="20" y1="30" x2="120" y2="30" stroke="#0f172a" stroke-width="4"/>
+    <line x1="20" y1="50" x2="120" y2="50" stroke="#94a3b8" stroke-width="3"/>
+    <line x1="20" y1="66" x2="90" y2="66" stroke="#94a3b8" stroke-width="3"/>
+    <line x1="20" y1="82" x2="100" y2="82" stroke="#94a3b8" stroke-width="3"/>
+    <line x1="20" y1="98" x2="80" y2="98" stroke="#94a3b8" stroke-width="3"/>
+    <line x1="20" y1="120" x2="120" y2="120" stroke="#38bdf8" stroke-width="4"/>
+  </g>
+
+  <text x="250" y="110" font-family="Verdana, Geneva, sans-serif" font-size="44" font-weight="bold" fill="#f8fafc">Billing System</text>
+  <text x="250" y="150" font-family="Verdana, Geneva, sans-serif" font-size="20" fill="#94a3b8">Console-based C++ billing engine with loyalty points, discounts &amp; bill history</text>
+
+  <g transform="translate(250,180)">
+    <rect x="0" y="0" width="90" height="30" rx="6" fill="#1e40af"/>
+    <text x="45" y="20" font-family="Verdana, Geneva, sans-serif" font-size="13" fill="#eff6ff" text-anchor="middle">C++17</text>
+
+    <rect x="105" y="0" width="120" height="30" rx="6" fill="#0369a1"/>
+    <text x="165" y="20" font-family="Verdana, Geneva, sans-serif" font-size="13" fill="#eff6ff" text-anchor="middle">File Handling</text>
+
+    <rect x="240" y="0" width="70" height="30" rx="6" fill="#0d9488"/>
+    <text x="275" y="20" font-family="Verdana, Geneva, sans-serif" font-size="13" fill="#eff6ff" text-anchor="middle">OOP</text>
+
+    <rect x="325" y="0" width="140" height="30" rx="6" fill="#7c3aed"/>
+    <text x="395" y="20" font-family="Verdana, Geneva, sans-serif" font-size="13" fill="#eff6ff" text-anchor="middle">Loyalty Points</text>
+  </g>
+</svg>
