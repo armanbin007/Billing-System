@@ -52,15 +52,15 @@ Loyalty points persist across sessions via `loyalty.txt`, loaded and saved throu
 =============== Super Shop Bill ===============
 Bill No: 4916        Date: Mon Sep 08 19:41:34 2025
 Customer: Zakir Khan
-Contact No: 016314465878
+Contact No: 01699999999
 Product             Qty       Price/unit     Total
 ------------------------------------------------
 Chips               5         50             250
-KitKat               5         80             400
+KitKat              5         80             400
 ------------------------------------------------
                                 Total: 650
                              Discount: 32.5
-                       Redeem Discount: 0
+                      Redeem Discount: 0
                           Grand Total: 617.5
 Loyalty Points Earned: 60
 Total Loyalty Points: 280
